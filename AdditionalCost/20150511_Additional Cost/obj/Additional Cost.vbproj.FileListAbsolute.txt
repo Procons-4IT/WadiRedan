@@ -1,0 +1,390 @@
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140102_Additional Cost\bin\Release\Additional Cost.exe
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140102_Additional Cost\bin\Release\Additional Cost.pdb
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140102_Additional Cost\bin\Release\Additional Cost.xml
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140102_Additional Cost\bin\Release\Interop.SAPbobsCOM.dll
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140102_Additional Cost\bin\Release\Interop.SAPbouiCOM.dll
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140102_Additional Cost\bin\Release\Interop.Scripting.dll
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140102_Additional Cost\obj\Release\ResolveAssemblyReference.cache
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140102_Additional Cost\obj\Release\Interop.SAPbobsCOM.dll
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140102_Additional Cost\obj\Release\Interop.SAPbouiCOM.dll
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140102_Additional Cost\obj\Release\Interop.Scripting.dll
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140102_Additional Cost\obj\Release\Additional Cost.vbproj.ResolveComReference.cache
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140102_Additional Cost\obj\Release\AdditionalCost.Resources.resources
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140102_Additional Cost\obj\Release\Additional Cost.vbproj.GenerateResource.Cache
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140102_Additional Cost\obj\Release\Additional Cost.exe
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140102_Additional Cost\obj\Release\Additional Cost.xml
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140102_Additional Cost\obj\Release\Additional Cost.pdb
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140102_Additional Cost\bin\Debug\Additional Cost.exe
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140102_Additional Cost\bin\Debug\Additional Cost.pdb
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140102_Additional Cost\bin\Debug\Additional Cost.xml
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140102_Additional Cost\bin\Debug\Interop.SAPbobsCOM.dll
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140102_Additional Cost\bin\Debug\Interop.SAPbouiCOM.dll
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140102_Additional Cost\bin\Debug\Interop.Scripting.dll
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140102_Additional Cost\obj\Debug\ResolveAssemblyReference.cache
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140102_Additional Cost\obj\Debug\Interop.SAPbobsCOM.dll
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140102_Additional Cost\obj\Debug\Interop.SAPbouiCOM.dll
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140102_Additional Cost\obj\Debug\Interop.Scripting.dll
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140102_Additional Cost\obj\Debug\Additional Cost.vbproj.ResolveComReference.cache
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140102_Additional Cost\obj\Debug\AdditionalCost.Resources.resources
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140102_Additional Cost\obj\Debug\Additional Cost.vbproj.GenerateResource.Cache
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140102_Additional Cost\obj\Debug\Additional Cost.exe
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140102_Additional Cost\obj\Debug\Additional Cost.xml
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140102_Additional Cost\obj\Debug\Additional Cost.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140102_Additional Cost\obj\Debug\Additional Cost.exe
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140102_Additional Cost\obj\Debug\Additional Cost.xml
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140102_Additional Cost\obj\Debug\Additional Cost.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140102_Additional Cost\bin\Debug\Additional Cost.exe
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140102_Additional Cost\bin\Debug\Additional Cost.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140102_Additional Cost\bin\Debug\Additional Cost.xml
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140102_Additional Cost\bin\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140102_Additional Cost\bin\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140102_Additional Cost\bin\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140102_Additional Cost\obj\Debug\ResolveAssemblyReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140102_Additional Cost\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140102_Additional Cost\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140102_Additional Cost\obj\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140102_Additional Cost\obj\Debug\Additional Cost.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140102_Additional Cost\obj\Debug\AdditionalCost.Resources.resources
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140102_Additional Cost\obj\Debug\Additional Cost.vbproj.GenerateResource.Cache
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140103_Additional Cost\20140103_Additional Cost\obj\Debug\Additional Cost.xml
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140103_Additional Cost\20140103_Additional Cost\obj\Debug\Additional Cost.pdb
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140103_Additional Cost\20140103_Additional Cost\bin\Debug\Additional Cost.exe
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140103_Additional Cost\20140103_Additional Cost\bin\Debug\Additional Cost.pdb
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140103_Additional Cost\20140103_Additional Cost\bin\Debug\Additional Cost.xml
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140103_Additional Cost\20140103_Additional Cost\bin\Debug\Interop.SAPbobsCOM.dll
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140103_Additional Cost\20140103_Additional Cost\bin\Debug\Interop.SAPbouiCOM.dll
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140103_Additional Cost\20140103_Additional Cost\bin\Debug\Interop.Scripting.dll
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140103_Additional Cost\20140103_Additional Cost\obj\Debug\ResolveAssemblyReference.cache
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140103_Additional Cost\20140103_Additional Cost\obj\Debug\Interop.SAPbobsCOM.dll
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140103_Additional Cost\20140103_Additional Cost\obj\Debug\Interop.SAPbouiCOM.dll
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140103_Additional Cost\20140103_Additional Cost\obj\Debug\Interop.Scripting.dll
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140103_Additional Cost\20140103_Additional Cost\obj\Debug\Additional Cost.vbproj.ResolveComReference.cache
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140103_Additional Cost\20140103_Additional Cost\obj\Debug\AdditionalCost.Resources.resources
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140103_Additional Cost\20140103_Additional Cost\obj\Debug\Additional Cost.vbproj.GenerateResource.Cache
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140103_Additional Cost\20140103_Additional Cost\obj\Debug\Additional Cost.exe
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140103_Additional Cost\obj\Debug\Additional Cost.exe
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140103_Additional Cost\obj\Debug\Additional Cost.xml
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140103_Additional Cost\obj\Debug\Additional Cost.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140103_Additional Cost\bin\Debug\Additional Cost.exe
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140103_Additional Cost\bin\Debug\Additional Cost.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140103_Additional Cost\bin\Debug\Additional Cost.xml
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140103_Additional Cost\bin\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140103_Additional Cost\bin\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140103_Additional Cost\bin\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140103_Additional Cost\obj\Debug\ResolveAssemblyReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140103_Additional Cost\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140103_Additional Cost\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140103_Additional Cost\obj\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140103_Additional Cost\obj\Debug\Additional Cost.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140103_Additional Cost\obj\Debug\AdditionalCost.Resources.resources
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140103_Additional Cost\obj\Debug\Additional Cost.vbproj.GenerateResource.Cache
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140104_Additional Cost\20140104_Additional Cost\obj\Debug\Additional Cost.exe
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140104_Additional Cost\20140104_Additional Cost\obj\Debug\Additional Cost.xml
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140104_Additional Cost\20140104_Additional Cost\obj\Debug\Additional Cost.pdb
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140104_Additional Cost\20140104_Additional Cost\bin\Debug\Additional Cost.exe
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140104_Additional Cost\20140104_Additional Cost\bin\Debug\Additional Cost.pdb
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140104_Additional Cost\20140104_Additional Cost\bin\Debug\Additional Cost.xml
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140104_Additional Cost\20140104_Additional Cost\bin\Debug\Interop.SAPbobsCOM.dll
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140104_Additional Cost\20140104_Additional Cost\bin\Debug\Interop.SAPbouiCOM.dll
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140104_Additional Cost\20140104_Additional Cost\bin\Debug\Interop.Scripting.dll
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140104_Additional Cost\20140104_Additional Cost\obj\Debug\ResolveAssemblyReference.cache
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140104_Additional Cost\20140104_Additional Cost\obj\Debug\Interop.SAPbobsCOM.dll
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140104_Additional Cost\20140104_Additional Cost\obj\Debug\Interop.SAPbouiCOM.dll
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140104_Additional Cost\20140104_Additional Cost\obj\Debug\Interop.Scripting.dll
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140104_Additional Cost\20140104_Additional Cost\obj\Debug\Additional Cost.vbproj.ResolveComReference.cache
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140104_Additional Cost\20140104_Additional Cost\obj\Debug\AdditionalCost.Resources.resources
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140104_Additional Cost\20140104_Additional Cost\obj\Debug\Additional Cost.vbproj.GenerateResource.Cache
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140106_Additional Cost\obj\Debug\Additional Cost.exe
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140106_Additional Cost\obj\Debug\Additional Cost.xml
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140106_Additional Cost\obj\Debug\Additional Cost.pdb
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140106_Additional Cost\bin\Debug\Additional Cost.exe
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140106_Additional Cost\bin\Debug\Additional Cost.pdb
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140106_Additional Cost\bin\Debug\Additional Cost.xml
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140106_Additional Cost\bin\Debug\Interop.SAPbobsCOM.dll
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140106_Additional Cost\bin\Debug\Interop.SAPbouiCOM.dll
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140106_Additional Cost\bin\Debug\Interop.Scripting.dll
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140106_Additional Cost\obj\Debug\ResolveAssemblyReference.cache
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140106_Additional Cost\obj\Debug\Interop.SAPbobsCOM.dll
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140106_Additional Cost\obj\Debug\Interop.SAPbouiCOM.dll
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140106_Additional Cost\obj\Debug\Interop.Scripting.dll
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140106_Additional Cost\obj\Debug\Additional Cost.vbproj.ResolveComReference.cache
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140106_Additional Cost\obj\Debug\AdditionalCost.Resources.resources
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140106_Additional Cost\obj\Debug\Additional Cost.vbproj.GenerateResource.Cache
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140106_Additional Cost\obj\Debug\Additional Cost.exe
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140106_Additional Cost\obj\Debug\Additional Cost.xml
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140106_Additional Cost\obj\Debug\Additional Cost.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140106_Additional Cost\bin\Debug\Additional Cost.exe
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140106_Additional Cost\bin\Debug\Additional Cost.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140106_Additional Cost\bin\Debug\Additional Cost.xml
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140106_Additional Cost\bin\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140106_Additional Cost\bin\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140106_Additional Cost\bin\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140106_Additional Cost\obj\Debug\ResolveAssemblyReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140106_Additional Cost\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140106_Additional Cost\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140106_Additional Cost\obj\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140106_Additional Cost\obj\Debug\Additional Cost.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140106_Additional Cost\obj\Debug\AdditionalCost.Resources.resources
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140106_Additional Cost\obj\Debug\Additional Cost.vbproj.GenerateResource.Cache
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140107_Additional Cost\obj\Debug\Additional Cost.exe
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140107_Additional Cost\obj\Debug\Additional Cost.xml
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140107_Additional Cost\obj\Debug\Additional Cost.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140108_Additional Cost\obj\Debug\Additional Cost.exe
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140108_Additional Cost\obj\Debug\Additional Cost.xml
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140108_Additional Cost\obj\Debug\Additional Cost.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140108_Additional Cost\bin\Debug\Additional Cost.exe
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140108_Additional Cost\bin\Debug\Additional Cost.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140108_Additional Cost\bin\Debug\Additional Cost.xml
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140108_Additional Cost\bin\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140108_Additional Cost\bin\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140108_Additional Cost\bin\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140108_Additional Cost\obj\Debug\ResolveAssemblyReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140108_Additional Cost\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140108_Additional Cost\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140108_Additional Cost\obj\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140108_Additional Cost\obj\Debug\Additional Cost.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140108_Additional Cost\obj\Debug\AdditionalCost.Resources.resources
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140108_Additional Cost\obj\Debug\Additional Cost.vbproj.GenerateResource.Cache
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140110_Additional Cost\obj\Debug\Additional Cost.exe
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140110_Additional Cost\obj\Debug\Additional Cost.xml
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140110_Additional Cost\obj\Debug\Additional Cost.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140110_Additional Cost\bin\Debug\Additional Cost.exe
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140110_Additional Cost\bin\Debug\Additional Cost.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140110_Additional Cost\bin\Debug\Additional Cost.xml
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140110_Additional Cost\bin\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140110_Additional Cost\bin\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140110_Additional Cost\bin\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140110_Additional Cost\obj\Debug\ResolveAssemblyReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140110_Additional Cost\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140110_Additional Cost\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140110_Additional Cost\obj\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140110_Additional Cost\obj\Debug\Additional Cost.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140110_Additional Cost\obj\Debug\AdditionalCost.Resources.resources
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140110_Additional Cost\obj\Debug\Additional Cost.vbproj.GenerateResource.Cache
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140110_Additional Cost\20140110_Additional Cost\obj\Debug\Additional Cost.exe
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140110_Additional Cost\20140110_Additional Cost\obj\Debug\Additional Cost.xml
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140110_Additional Cost\20140110_Additional Cost\obj\Debug\Additional Cost.pdb
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140110_Additional Cost\20140110_Additional Cost\bin\Debug\Additional Cost.exe
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140110_Additional Cost\20140110_Additional Cost\bin\Debug\Additional Cost.pdb
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140110_Additional Cost\20140110_Additional Cost\bin\Debug\Additional Cost.xml
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140110_Additional Cost\20140110_Additional Cost\bin\Debug\Interop.SAPbobsCOM.dll
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140110_Additional Cost\20140110_Additional Cost\bin\Debug\Interop.SAPbouiCOM.dll
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140110_Additional Cost\20140110_Additional Cost\bin\Debug\Interop.Scripting.dll
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140110_Additional Cost\20140110_Additional Cost\obj\Debug\ResolveAssemblyReference.cache
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140110_Additional Cost\20140110_Additional Cost\obj\Debug\Interop.SAPbobsCOM.dll
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140110_Additional Cost\20140110_Additional Cost\obj\Debug\Interop.SAPbouiCOM.dll
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140110_Additional Cost\20140110_Additional Cost\obj\Debug\Interop.Scripting.dll
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140110_Additional Cost\20140110_Additional Cost\obj\Debug\Additional Cost.vbproj.ResolveComReference.cache
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140110_Additional Cost\20140110_Additional Cost\obj\Debug\AdditionalCost.Resources.resources
+D:\Dharmaraj\2014\AddonSDK\Additional Cost\Source Code\20140110_Additional Cost\20140110_Additional Cost\obj\Debug\Additional Cost.vbproj.GenerateResource.Cache
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140115_Additional Cost\obj\Debug\Additional Cost.xml
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140115_Additional Cost\obj\Debug\Additional Cost.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140115_Additional Cost\bin\Debug\Additional Cost.exe
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140115_Additional Cost\bin\Debug\Additional Cost.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140115_Additional Cost\bin\Debug\Additional Cost.xml
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140115_Additional Cost\bin\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140115_Additional Cost\bin\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140115_Additional Cost\bin\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140115_Additional Cost\obj\Debug\ResolveAssemblyReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140115_Additional Cost\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140115_Additional Cost\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140115_Additional Cost\obj\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140115_Additional Cost\obj\Debug\Additional Cost.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140115_Additional Cost\obj\Debug\AdditionalCost.Resources.resources
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140115_Additional Cost\obj\Debug\Additional Cost.vbproj.GenerateResource.Cache
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140115_Additional Cost\obj\Debug\Additional Cost.exe
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140116_Additional Cost\obj\Debug\Additional Cost.exe
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140116_Additional Cost\obj\Debug\Additional Cost.xml
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140116_Additional Cost\obj\Debug\Additional Cost.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140116_Additional Cost\bin\Debug\Additional Cost.exe
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140116_Additional Cost\bin\Debug\Additional Cost.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140116_Additional Cost\bin\Debug\Additional Cost.xml
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140116_Additional Cost\bin\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140116_Additional Cost\bin\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140116_Additional Cost\bin\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140116_Additional Cost\obj\Debug\ResolveAssemblyReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140116_Additional Cost\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140116_Additional Cost\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140116_Additional Cost\obj\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140116_Additional Cost\obj\Debug\Additional Cost.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140116_Additional Cost\obj\Debug\AdditionalCost.Resources.resources
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140116_Additional Cost\obj\Debug\Additional Cost.vbproj.GenerateResource.Cache
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140120_Additional Cost\obj\Debug\Additional Cost.exe
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140120_Additional Cost\obj\Debug\Additional Cost.xml
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140120_Additional Cost\obj\Debug\Additional Cost.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140120_Additional Cost\bin\Debug\Additional Cost.exe
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140120_Additional Cost\bin\Debug\Additional Cost.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140120_Additional Cost\bin\Debug\Additional Cost.xml
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140120_Additional Cost\bin\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140120_Additional Cost\bin\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140120_Additional Cost\bin\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140120_Additional Cost\obj\Debug\ResolveAssemblyReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140120_Additional Cost\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140120_Additional Cost\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140120_Additional Cost\obj\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140120_Additional Cost\obj\Debug\Additional Cost.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140120_Additional Cost\obj\Debug\AdditionalCost.Resources.resources
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140120_Additional Cost\obj\Debug\Additional Cost.vbproj.GenerateResource.Cache
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140129_Additional Cost\obj\Debug\Additional Cost.xml
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140129_Additional Cost\obj\Debug\Additional Cost.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140129_Additional Cost\bin\Debug\Additional Cost.exe
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140129_Additional Cost\bin\Debug\Additional Cost.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140129_Additional Cost\bin\Debug\Additional Cost.xml
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140129_Additional Cost\bin\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140129_Additional Cost\bin\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140129_Additional Cost\bin\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140129_Additional Cost\obj\Debug\ResolveAssemblyReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140129_Additional Cost\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140129_Additional Cost\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140129_Additional Cost\obj\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140129_Additional Cost\obj\Debug\Additional Cost.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140129_Additional Cost\obj\Debug\AdditionalCost.Resources.resources
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140129_Additional Cost\obj\Debug\Additional Cost.vbproj.GenerateResource.Cache
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140129_Additional Cost\obj\Debug\Additional Cost.exe
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140212_Additional Cost\obj\Debug\Additional Cost.exe
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140212_Additional Cost\obj\Debug\Additional Cost.xml
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140212_Additional Cost\obj\Debug\Additional Cost.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140212_Additional Cost\bin\Debug\Additional Cost.exe
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140212_Additional Cost\bin\Debug\Additional Cost.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140212_Additional Cost\bin\Debug\Additional Cost.xml
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140212_Additional Cost\bin\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140212_Additional Cost\bin\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140212_Additional Cost\bin\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140212_Additional Cost\obj\Debug\ResolveAssemblyReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140212_Additional Cost\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140212_Additional Cost\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140212_Additional Cost\obj\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140212_Additional Cost\obj\Debug\Additional Cost.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140212_Additional Cost\obj\Debug\AdditionalCost.Resources.resources
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140212_Additional Cost\obj\Debug\Additional Cost.vbproj.GenerateResource.Cache
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140406_Additional Cost\obj\Debug\Additional Cost.exe
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140406_Additional Cost\obj\Debug\Additional Cost.xml
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140406_Additional Cost\obj\Debug\Additional Cost.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140406_Additional Cost\bin\Debug\Additional Cost.exe
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140406_Additional Cost\bin\Debug\Additional Cost.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140406_Additional Cost\bin\Debug\Additional Cost.xml
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140406_Additional Cost\bin\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140406_Additional Cost\bin\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140406_Additional Cost\bin\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140406_Additional Cost\obj\Debug\ResolveAssemblyReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140406_Additional Cost\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140406_Additional Cost\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140406_Additional Cost\obj\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140406_Additional Cost\obj\Debug\Additional Cost.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140406_Additional Cost\obj\Debug\AdditionalCost.Resources.resources
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140406_Additional Cost\obj\Debug\Additional Cost.vbproj.GenerateResource.Cache
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140418_Additional Cost\obj\Debug\Additional Cost.exe
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140418_Additional Cost\obj\Debug\Additional Cost.xml
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140418_Additional Cost\obj\Debug\Additional Cost.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140421_Additional Cost\obj\Debug\Additional Cost.exe
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140421_Additional Cost\obj\Debug\Additional Cost.xml
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140421_Additional Cost\obj\Debug\Additional Cost.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140421_Additional Cost\bin\Debug\Additional Cost.exe
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140421_Additional Cost\bin\Debug\Additional Cost.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140421_Additional Cost\bin\Debug\Additional Cost.xml
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140421_Additional Cost\bin\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140421_Additional Cost\bin\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140421_Additional Cost\bin\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140421_Additional Cost\obj\Debug\ResolveAssemblyReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140421_Additional Cost\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140421_Additional Cost\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140421_Additional Cost\obj\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140421_Additional Cost\obj\Debug\Additional Cost.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140421_Additional Cost\obj\Debug\AdditionalCost.Resources.resources
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140421_Additional Cost\obj\Debug\Additional Cost.vbproj.GenerateResource.Cache
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140604_Additional Cost\obj\Debug\Additional Cost.exe
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140604_Additional Cost\obj\Debug\Additional Cost.xml
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140604_Additional Cost\obj\Debug\Additional Cost.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140604_Additional Cost\bin\Debug\Additional Cost.exe
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140604_Additional Cost\bin\Debug\Additional Cost.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140604_Additional Cost\bin\Debug\Additional Cost.xml
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140604_Additional Cost\bin\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140604_Additional Cost\bin\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140604_Additional Cost\bin\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140604_Additional Cost\obj\Debug\ResolveAssemblyReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140604_Additional Cost\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140604_Additional Cost\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140604_Additional Cost\obj\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140604_Additional Cost\obj\Debug\Additional Cost.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140604_Additional Cost\obj\Debug\AdditionalCost.Resources.resources
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140604_Additional Cost\obj\Debug\Additional Cost.vbproj.GenerateResource.Cache
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140605_Additional Cost\obj\Debug\Additional Cost.exe
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140605_Additional Cost\obj\Debug\Additional Cost.xml
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140605_Additional Cost\obj\Debug\Additional Cost.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140605_Additional Cost\bin\Debug\Additional Cost.exe
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140605_Additional Cost\bin\Debug\Additional Cost.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140605_Additional Cost\bin\Debug\Additional Cost.xml
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140605_Additional Cost\bin\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140605_Additional Cost\bin\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140605_Additional Cost\bin\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140605_Additional Cost\obj\Debug\ResolveAssemblyReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140605_Additional Cost\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140605_Additional Cost\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140605_Additional Cost\obj\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140605_Additional Cost\obj\Debug\Additional Cost.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140605_Additional Cost\obj\Debug\AdditionalCost.Resources.resources
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140605_Additional Cost\obj\Debug\Additional Cost.vbproj.GenerateResource.Cache
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140623_Additional Cost\obj\Debug\Additional Cost.exe
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140623_Additional Cost\obj\Debug\Additional Cost.xml
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140623_Additional Cost\obj\Debug\Additional Cost.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140623_Additional Cost\bin\Debug\Additional Cost.exe
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140623_Additional Cost\bin\Debug\Additional Cost.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140623_Additional Cost\bin\Debug\Additional Cost.xml
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140623_Additional Cost\bin\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140623_Additional Cost\bin\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140623_Additional Cost\bin\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140623_Additional Cost\obj\Debug\ResolveAssemblyReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140623_Additional Cost\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140623_Additional Cost\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140623_Additional Cost\obj\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140623_Additional Cost\obj\Debug\Additional Cost.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140623_Additional Cost\obj\Debug\AdditionalCost.Resources.resources
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140623_Additional Cost\obj\Debug\Additional Cost.vbproj.GenerateResource.Cache
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140625_Additional Cost\obj\Debug\Additional Cost.exe
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140625_Additional Cost\obj\Debug\Additional Cost.xml
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140625_Additional Cost\obj\Debug\Additional Cost.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140625_Additional Cost\obj\Debug\ResolveAssemblyReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140625_Additional Cost\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140625_Additional Cost\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140625_Additional Cost\obj\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140625_Additional Cost\obj\Debug\Additional Cost.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140625_Additional Cost\obj\Debug\AdditionalCost.Resources.resources
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140625_Additional Cost\obj\Debug\Additional Cost.vbproj.GenerateResource.Cache
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140625_Additional Cost\bin\Debug\Additional Cost.exe
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140625_Additional Cost\bin\Debug\Additional Cost.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140625_Additional Cost\bin\Debug\Additional Cost.xml
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140625_Additional Cost\bin\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140625_Additional Cost\bin\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140625_Additional Cost\bin\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140630_Additional Cost\obj\Debug\Additional Cost.exe
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140630_Additional Cost\obj\Debug\Additional Cost.xml
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140630_Additional Cost\obj\Debug\Additional Cost.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140630_Additional Cost\bin\Debug\Additional Cost.exe
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140630_Additional Cost\bin\Debug\Additional Cost.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140630_Additional Cost\bin\Debug\Additional Cost.xml
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140630_Additional Cost\bin\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140630_Additional Cost\bin\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140630_Additional Cost\bin\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140630_Additional Cost\obj\Debug\ResolveAssemblyReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140630_Additional Cost\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140630_Additional Cost\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140630_Additional Cost\obj\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140630_Additional Cost\obj\Debug\Additional Cost.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140630_Additional Cost\obj\Debug\AdditionalCost.Resources.resources
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20140630_Additional Cost\obj\Debug\Additional Cost.vbproj.GenerateResource.Cache
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20150511_Additional Cost\obj\Debug\Additional Cost.exe
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20150511_Additional Cost\obj\Debug\Additional Cost.xml
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20150511_Additional Cost\obj\Debug\Additional Cost.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20150511_Additional Cost\bin\Debug\Additional Cost.exe
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20150511_Additional Cost\bin\Debug\Additional Cost.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20150511_Additional Cost\bin\Debug\Additional Cost.xml
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20150511_Additional Cost\bin\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20150511_Additional Cost\bin\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20150511_Additional Cost\bin\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20150511_Additional Cost\obj\Debug\ResolveAssemblyReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20150511_Additional Cost\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20150511_Additional Cost\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20150511_Additional Cost\obj\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20150511_Additional Cost\obj\Debug\Additional Cost.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20150511_Additional Cost\obj\Debug\AdditionalCost.Resources.resources
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\20150511_Additional Cost\obj\Debug\Additional Cost.vbproj.GenerateResource.Cache

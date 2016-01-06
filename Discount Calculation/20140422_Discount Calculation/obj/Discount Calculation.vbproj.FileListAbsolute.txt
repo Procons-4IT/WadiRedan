@@ -1,0 +1,48 @@
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\Discount Calculation\20140418_Discount Calculation\bin\Debug\Discount Calculation.exe
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\Discount Calculation\20140418_Discount Calculation\bin\Debug\Discount Calculation.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\Discount Calculation\20140418_Discount Calculation\bin\Debug\Discount Calculation.xml
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\Discount Calculation\20140418_Discount Calculation\bin\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\Discount Calculation\20140418_Discount Calculation\bin\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\Discount Calculation\20140418_Discount Calculation\bin\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\Discount Calculation\20140418_Discount Calculation\obj\Debug\ResolveAssemblyReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\Discount Calculation\20140418_Discount Calculation\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\Discount Calculation\20140418_Discount Calculation\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\Discount Calculation\20140418_Discount Calculation\obj\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\Discount Calculation\20140418_Discount Calculation\obj\Debug\Discount Calculation.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\Discount Calculation\20140418_Discount Calculation\obj\Debug\DiscountCalculation.Resources.resources
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\Discount Calculation\20140418_Discount Calculation\obj\Debug\Discount Calculation.vbproj.GenerateResource.Cache
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\Discount Calculation\20140418_Discount Calculation\obj\Debug\Discount Calculation.exe
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\Discount Calculation\20140418_Discount Calculation\obj\Debug\Discount Calculation.xml
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\Discount Calculation\20140418_Discount Calculation\obj\Debug\Discount Calculation.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\Discount Calculation\20140421_Discount Calculation\obj\Debug\Discount Calculation.exe
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\Discount Calculation\20140421_Discount Calculation\obj\Debug\Discount Calculation.xml
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\Discount Calculation\20140421_Discount Calculation\obj\Debug\Discount Calculation.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\Discount Calculation\20140421_Discount Calculation\bin\Debug\Discount Calculation.exe
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\Discount Calculation\20140421_Discount Calculation\bin\Debug\Discount Calculation.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\Discount Calculation\20140421_Discount Calculation\bin\Debug\Discount Calculation.xml
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\Discount Calculation\20140421_Discount Calculation\bin\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\Discount Calculation\20140421_Discount Calculation\bin\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\Discount Calculation\20140421_Discount Calculation\bin\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\Discount Calculation\20140421_Discount Calculation\obj\Debug\ResolveAssemblyReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\Discount Calculation\20140421_Discount Calculation\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\Discount Calculation\20140421_Discount Calculation\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\Discount Calculation\20140421_Discount Calculation\obj\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\Discount Calculation\20140421_Discount Calculation\obj\Debug\Discount Calculation.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\Discount Calculation\20140421_Discount Calculation\obj\Debug\DiscountCalculation.Resources.resources
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\Discount Calculation\20140421_Discount Calculation\obj\Debug\Discount Calculation.vbproj.GenerateResource.Cache
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\Discount Calculation\20140422_Discount Calculation\obj\Debug\Discount Calculation.exe
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\Discount Calculation\20140422_Discount Calculation\obj\Debug\Discount Calculation.xml
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\Discount Calculation\20140422_Discount Calculation\obj\Debug\Discount Calculation.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\Discount Calculation\20140422_Discount Calculation\bin\Debug\Discount Calculation.exe
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\Discount Calculation\20140422_Discount Calculation\bin\Debug\Discount Calculation.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\Discount Calculation\20140422_Discount Calculation\bin\Debug\Discount Calculation.xml
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\Discount Calculation\20140422_Discount Calculation\bin\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\Discount Calculation\20140422_Discount Calculation\bin\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\Discount Calculation\20140422_Discount Calculation\bin\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\Discount Calculation\20140422_Discount Calculation\obj\Debug\ResolveAssemblyReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\Discount Calculation\20140422_Discount Calculation\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\Discount Calculation\20140422_Discount Calculation\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\Discount Calculation\20140422_Discount Calculation\obj\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\Discount Calculation\20140422_Discount Calculation\obj\Debug\Discount Calculation.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\Discount Calculation\20140422_Discount Calculation\obj\Debug\DiscountCalculation.Resources.resources
+G:\International Projects_SAP9.0\Procons-4IT\Wadi Redan_Additional cost\Discount Calculation\20140422_Discount Calculation\obj\Debug\Discount Calculation.vbproj.GenerateResource.Cache

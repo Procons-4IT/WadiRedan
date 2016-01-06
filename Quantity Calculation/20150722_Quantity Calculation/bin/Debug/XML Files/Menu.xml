@@ -1,0 +1,14 @@
+<Application>
+	<Menus>
+		<action type="add">
+      <Menu Checked="0" Enabled="1" FatherUID="43525" Image="" Position="7" String="Additional Cost"
+    Type="2" UniqueID="DABT_411">
+      </Menu>
+			<Menu Checked="0" Enabled="1" FatherUID="DABT_411" Image="" Position="0" String="Additional Cost - Setup"
+				Type="1" UniqueID="DABT_412"></Menu>
+      <Menu Checked="0" Enabled="1" FatherUID="DABT_411" Image="" Position="1" String="Pump Master - Setup"
+				Type="1" UniqueID="DABT_413"></Menu>
+		
+		</action>
+	</Menus>
+</Application>
